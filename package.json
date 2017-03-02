@@ -1,6 +1,6 @@
 {
   "name": "stream-accelerator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node stream with in-memory buffering",
   "main": "stream-accelerator.js",
   "scripts": {},
