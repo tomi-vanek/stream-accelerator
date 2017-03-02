@@ -1,0 +1,23 @@
+{
+  "name": "stream-accelerator",
+  "version": "0.1.0",
+  "description": "Node stream with in-memory buffering",
+  "main": "stream-accelerator.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomi-vanek/stream-accelerator.git"
+  },
+  "keywords": [
+    "stream",
+    "buffer"
+  ],
+  "author": "tomi vanek",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/tomi-vanek/stream-accelerator/issues"
+  },
+  "homepage": "https://github.com/tomi-vanek/stream-accelerator#readme",
+  "dependencies": {
+  }
+}

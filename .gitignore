@@ -35,3 +35,6 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# product of stream-accelerator example.js execution
+LICENSE.csv
