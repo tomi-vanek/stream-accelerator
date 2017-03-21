@@ -2,7 +2,7 @@
 
 const stream = require('stream');
 
-const defaultSize = 5000;
+const defaultSize = 10000;
 const defaultReserve = 100;
 
 module.exports = (size, reserve) => {
